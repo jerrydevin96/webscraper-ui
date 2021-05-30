@@ -1,27 +1,22 @@
-# WebscraperUi
+**Using the UI:**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+**UI repository: https://github.com/jerrydevin96/webscraper-ui**
 
-## Development server
+**UI Link: https://jerrydevin96.github.io/webscraper-ui/**
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+**Steps for using UI:**
 
-## Code scaffolding
+·     Access the UI link from chrome
+ ![img](file:///C:\Users\Abcd\AppData\Local\Temp\msohtmlclip1\01\clip_image002.jpg)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+·     Click on the secure lock symbol left of the URL and select site settings
+ ![img](file:///C:\Users\Abcd\AppData\Local\Temp\msohtmlclip1\01\clip_image004.jpg)
 
-## Build
+·     In site settings search for insecure content and allow it
+ ![img](file:///C:\Users\Abcd\AppData\Local\Temp\msohtmlclip1\01\clip_image006.jpg)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+·     Provide the URL to analyse in the application and click on analyze button
+ ![img](file:///C:\Users\Abcd\AppData\Local\Temp\msohtmlclip1\01\clip_image008.jpg)
+ 
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ 
